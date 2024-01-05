@@ -1,14 +1,14 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
+    "name": "拾锦鱼-blog",
+    "title": "拾锦鱼 Blog",
+    "author": "拾锦鱼 <ruolan020@163.com>",
     "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "homepage": "http://ruolan020.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qiubaiying/qiubaiying.github.io"
+        "url": "https://github.com/ruolan020/ruolan020.github.io"
     },
-    "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
+    "bugs": "https://github.com/ruolan020/ruolan020.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0"
         "grunt-contrib-less": "~0.11.4",
